@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![David's GitHub stats](https://github-stats-extended.vercel.app/api?username=davidfisher01)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=davidfisher01&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=5&theme=dark_github)
